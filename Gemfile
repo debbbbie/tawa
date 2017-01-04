@@ -38,8 +38,8 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'factory_girl_rails'
   gem 'database_cleaner'
-  gem 'seed-fu'
 end
+gem 'seed-fu'
 
 gem 'devise'
 gem 'devise-i18n'
